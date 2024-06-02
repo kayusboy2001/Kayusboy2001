@@ -19,7 +19,7 @@
 <br>
  📫 How to reach me
 <div id="badges">
-  <a href="www.linkedin.com/in/atadeleye">
+  <a href="https://www.linkedin.com/in/atadeleye">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCuHwDSWb-3E3amFoopkns6Q">
