@@ -29,7 +29,7 @@
   <a href="https://x.com/kayusboy2001">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://wa.me/2348023008977">
+  <a href="https://wa.me/2348023008977" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   <a href="mailto:Kayusboy2001@gmail.com?subject=Compose%20New%20Email"> 
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
